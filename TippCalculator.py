@@ -487,5 +487,3 @@ if __name__ == "__main__":
         print(f"🎉 {result['leader']} ist bereits CHAMPION! 🎉")
     else:
         print(f"⚔️  Das Rennen ist noch offen! Spannend bis zum Ende!")
-
-    test_race_calc()
